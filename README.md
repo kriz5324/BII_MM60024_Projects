@@ -1,4 +1,4 @@
-# Final Projects for MM60024 : Biomedical Imaging Informatics
+# Projects for MM60024 : Biomedical Imaging Informatics
 > Repository for final project allocation and submission for MM60024 : Biomedical Imaging Informatics offered in Spring 2026 at IIT Kharagpur taught by [Prof Debashree Guha Adhya](https://www.iitkgp.ac.in/department/MM/faculty/mm-debashree_smst).
 
 > This repository might be updated with new projects and/or changes to existing projects. Please check back regularly.
@@ -132,7 +132,10 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 4. The system can assist healthcare professionals by providing `early warnings for patients at risk of coronary heart disease`.
 5. The proposed model aims to support preventive healthcare and clinical decision-making, helping reduce mortality through timely diagnosis and treatment.
 
-   
+
+### Project 4 : Early Detection of Coronary Heart Disease
+
+1. The dataset is located in the `data/Cervical data` directory. 
 
 ---
 ## Resources
