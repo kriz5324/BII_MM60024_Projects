@@ -214,7 +214,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 ### Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images
 
 1. The aim of this project is to develop a machine learning (deep learning) model for automatic skin lesion segmentation from dermoscopic images, enabling accurate identification of lesion boundaries for early diagnosis of skin cancer.
-2. The dataset is located in the data/SkinLesionData directory. It consists of dermoscopic images for training and testing with its ground truth binary segmentation mask, indicating the exact region of the lesion.
+2. The dataset is located in the `data/SkinLesionData` directory. It consists of dermoscopic images for training and testing with its ground truth binary segmentation mask, indicating the exact region of the lesion.
 3. The project is divided into the following parts:
    - `Data Preprocessing and Cleaning`: Image resizing, preprocessing, normalization, augmentation (such as rotation, flipping), and artifact removal (e.g., hair removal) may be applied to improve model generalization and performance. (if you feel its needed)
    - `Data Analysis`: Visualization techniques such as sample image inspection, mask overlays, and pixel intensity distributions will be used to understand the dataset. Statistical analysis of lesion sizes and shapes may also be performed.
@@ -229,7 +229,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 ### Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images
 
 Here, you are expected to develop a machine learning (or deep learning) based system for multimodal image fusion of MRI and SPECT brain images, combining structural and functional information into a single enhanced image to support improved diagnosis of neurological disorders.
-1. The dataset is located in the data/MRI-SPECT Brain Data directory and consists of paired Magnetic Resonance Imaging (MRI) and Single Photon Emission Computed Tomography (SPECT) brain images collected from publicly available medical imaging repositories or clinical datasets. Each pair corresponds to the same patient and registered.
+1. The dataset is located in the `data/MultimodalFusion` directory and consists of paired Magnetic Resonance Imaging (MRI) and Single Photon Emission Computed Tomography (SPECT) brain images collected from publicly available medical imaging repositories or clinical datasets. Each pair corresponds to the same patient and registered.
 2. The project is divided into the following parts:
    - `Data Preprocessing and Cleaning`: Image registration (alignment of MRI and SPECT images), resizing, normalization, noise reduction, and intensity scaling will be applied to ensure compatibility between modalities and improve fusion quality.
    - `Data Analysis`: Visualization techniques such as modality comparison, intensity histograms, and overlay analysis will be used to understand differences between MRI and SPECT images. Statistical measures like entropy and mutual information may also be analyzed.
