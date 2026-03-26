@@ -24,6 +24,8 @@
     - [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images)
     - [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients)
     - [Project 9 : Multiorgan Segmentation Using the AbdomenAtlas 1.0 Mini Dataset](#Project-9--Multiorgan-Segmentation-Using-the-AbdomenAtlas-1.0-Mini-Dataset)
+    - [Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images](#Project-10--Automatic-Skin-Lesion-Segmentation-from-Dermoscopic-Images)
+    - [Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images](#Project-11--Multimodal-Image-Fusion-of-MRI-and-SPECT-Brain-Images)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 
@@ -96,6 +98,8 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 |  | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
 |  | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
 |  | [Project 9 : Multiorgan Segmentation Using the AbdomenAtlas 1.0 Mini Dataset](#Project-9--Multiorgan-Segmentation-Using-the-AbdomenAtlas-1.0-Mini-Dataset) | _ |
+|  | [Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images](#Project-10--Automatic-Skin-Lesion-Segmentation-from-Dermoscopic-Images) | _ |
+|  | [Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images](#Project-11--Multimodal-Image-Fusion-of-MRI-and-SPECT-Brain-Images) | _ |
 
 
 ## Projects
@@ -207,6 +211,22 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 7. The model performance will be evaluated using `Dice Similarity Coefficient (DSC)`, `Intersection over Union (IoU)`, `precision`, and `recall`, which are commonly used metrics for medical image segmentation.
 8. The proposed system can assist clinicians by automatically identifying abdominal organs in CT scans, supporting tasks such as disease detection, treatment planning, and surgical navigation.
 
+### Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images
+
+1. The aim of this project is to develop a machine learning (deep learning) model for automatic skin lesion segmentation from dermoscopic images, enabling accurate identification of lesion boundaries for early diagnosis of skin cancer.
+2. The dataset is located in the data/SkinLesionData directory. It consists of dermoscopic images for training and testing with its ground truth binary segmentation mask, indicating the exact region of the lesion.
+3. The project is divided into the following parts:
+   - `Data Preprocessing and Cleaning`: Image resizing, preprocessing, normalization, augmentation (such as rotation, flipping), and artifact removal (e.g., hair removal) may be applied to improve model generalization and performance. (if you feel its needed)
+   - `Data Analysis`: Visualization techniques such as sample image inspection, mask overlays, and pixel intensity distributions will be used to understand the dataset. Statistical analysis of lesion sizes and shapes may also be performed.
+   - `Segmentation Task`: Learning models such as U-Net, Fully Convolutional Networks (FCN), Mask R-CNN, or DeepLab may be used for pixel-wise prediction.
+   - Model performance will be evaluated using segmentation-specific metrics such as:
+     - `Dice Coefficient`
+     - `Jaccard Index (IoU)`
+     - `Pixel Accuracy`
+     - `Precision and Recall`
+4. The developed system can assist dermatologists by providing precise lesion boundaries, which are crucial for accurate diagnosis and treatment planning. 
+
+### Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images
 
 ---
 ## Resources
