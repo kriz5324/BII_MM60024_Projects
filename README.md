@@ -90,13 +90,13 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
 |  | [Project 1 : Classification of Breast Cancer Using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-Using-Ultrasound-Images) | _ |
-|  | [Project 2 : Maternal Health Risk Prediction in Personalized Patient Care](#project-2--Maternal-Health-Risk-Prediction-in-Personalized-Patient-Care) | _ |
+| Group 13 | [Project 2 : Maternal Health Risk Prediction in Personalized Patient Care](#project-2--Maternal-Health-Risk-Prediction-in-Personalized-Patient-Care) | _ |
 |  | [Project 3 : Early Detection of Coronary Heart Disease](#project-3--Early-Detection-of-Coronary-Heart-Disease) | _ |
-|  | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
+| Group 4 | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
 |  | [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods) | _ |
 |  | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
 |  | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
-|  | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
+| Group 12 | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
 |  | [Project 9 : Multiorgan Segmentation Using the AbdomenAtlas Mini Dataset](#Project-9--Multiorgan-Segmentation-Using-the-AbdomenAtlas-Mini-Dataset) | _ |
 |  | [Project 10 : Automatic Skin Lesion Segmentation from Dermoscopic Images](#Project-10--Automatic-Skin-Lesion-Segmentation-from-Dermoscopic-Images) | _ |
 |  | [Project 11 : Multimodal Image Fusion of MRI and SPECT Brain Images](#Project-11--Multimodal-Image-Fusion-of-MRI-and-SPECT-Brain-Images) | _ |
