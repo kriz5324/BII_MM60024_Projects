@@ -82,9 +82,11 @@
 2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/SanchitaMondal/BII_MM60024_Projects` repository.
 3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/SanchitaMondal/BII_MM60024_Projects` repository.
 4. That's it! `Congratulations!!` have successfully submitted your final project.
+   
+- Otherway, you can send a mail with subject `MM60024 : Biomedical Imaging Informatics Final Project (Project number) Submission - Group (Group number)` consisting your `Final Code` (.py or .ipynb) and `Final Report` (.pdf)
 
 ### Deadline
-The deadline for the final project submission is 1st May 2026, 23:59 IST. (Tentatively)
+The deadline for the final project submission is 15th & 16th April and 1st May 2026, 23:59 IST. 
 
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
